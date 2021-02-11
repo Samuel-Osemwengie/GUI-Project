@@ -1,0 +1,25 @@
+Date of stock inventory: 28th of December 2020
+
+Product Category: Mechanical
+Product Name: Toy Car
+ProductID: 11456
+Product Price: £80
+Quantity: 40xqnt
+
+Product Category: Electronic
+Product Name: Hover Board
+ProductID: 34567
+Product Price: £100
+Quantity: 20xqnt
+
+Product Category: Wooden
+Product Name: Rocking Horse
+ProductID: 67453
+Product Price: £200
+Quantity: 50xqnt
+
+Product Category: Doll
+Product Name: Teddy Bear
+ProductID: 34688
+Product Price: £150
+Quantity: 80xqnt
